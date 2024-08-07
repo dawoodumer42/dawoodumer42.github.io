@@ -234,8 +234,8 @@ body {
 
 .resume-container {
     position: absolute;
-    right: 50%;
-    top: 100px;
+    right: 43%;
+    top: 150px;
     font-size: 16px;
     display: flex;
     flex-direction: column;
